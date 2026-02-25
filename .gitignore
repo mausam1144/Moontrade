@@ -1,0 +1,34 @@
+# Node.js
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+built/
+
+# TypeScript
+
+# Compiled output
+*.js
+*.js.map
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Next.js
+.next/
