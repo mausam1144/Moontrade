@@ -6,3 +6,5 @@ Changing the code every some days to make it better in real time .
 Today we gonna add sone more codes to it for adding liquidity to the pool . 
 It's for the trade cause I think this will help the web app to be so fast.  
 5 . Givers here will take all the benefits one day.  
+
+6 . Add a function which allows traders to open a trade without any gas fee .
