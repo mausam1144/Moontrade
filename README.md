@@ -8,3 +8,5 @@ It's for the trade cause I think this will help the web app to be so fast.
 5 . Givers here will take all the benefits one day.  
 
 6 . Add a function which allows traders to open a trade without any gas fee .
+
+7 . Thinking of compiling some AI agents which will take care of the trades if some sudden fluctuation happens due to some reasons. 
